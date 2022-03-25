@@ -3,7 +3,7 @@
 require_once('./vendor/autoload.php');
 
 try{
-    $count = 500;
+    $count = 15;
     $faker = \Faker\Factory::create();
 
     //Connecting MySQL Database
